@@ -1,0 +1,54 @@
+{
+  "_from": "@sharpenednoodles/msg.reader-ts",
+  "_id": "@sharpenednoodles/msg.reader-ts@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-3nswRKR5nfJNRlrSEkgenibUkRUKxqU4I4ov3eBNLkSpaCyzAEokrwCkSS9bIvLpRMPQu4E+T2d6WFvALmGbWw==",
+  "_location": "/@sharpenednoodles/msg.reader-ts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@sharpenednoodles/msg.reader-ts",
+    "name": "@sharpenednoodles/msg.reader-ts",
+    "escapedName": "@sharpenednoodles%2fmsg.reader-ts",
+    "scope": "@sharpenednoodles",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@sharpenednoodles/msg.reader-ts/-/msg.reader-ts-0.1.1.tgz",
+  "_shasum": "86acf76240db5c31af2cebe9d2de530eb27b154a",
+  "_spec": "@sharpenednoodles/msg.reader-ts",
+  "_where": "C:\\Users\\bryce.andrews\\GIT Repos\\HowNow Web",
+  "author": {
+    "name": "Bryce Andrews",
+    "email": "sharpenednoodles@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "MSG Reader for Typescript",
+  "devDependencies": {},
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "",
+  "keywords": [
+    "msg",
+    "reader",
+    "outlook",
+    "typescript"
+  ],
+  "license": "APACHE",
+  "main": "./index.js",
+  "name": "@sharpenednoodles/msg.reader-ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./index.d.ts",
+  "version": "0.1.2"
+}
